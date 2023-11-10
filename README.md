@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
     <img src="./public/logo.png" width="200px" />
-</div>
+</div> -->
 
 <h1 align="center">Py Music Down</h1>
 
