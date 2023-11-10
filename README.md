@@ -13,7 +13,14 @@
 
 ## Índice
 
-EM DESENVOLVIMENTO
+- [Status do projeto](#status-do-projeto)
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Configuração](#configuração)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Licença](#licença)
+- [Referências](#referências)
+- [Autor](#autor)
 
 ## Status do projeto
 
@@ -52,3 +59,15 @@ EM DESENVOLVIMENTO
 ## Referências
 
 EM DESENVOLVIMENTO
+
+## Autor
+
+<a href="https:/github.com/frv-dev" style="text-decoration: none;">
+    <img src="https://avatars3.githubusercontent.com/u/20212780?s=460&u=31b263296ed9edab65b88e8a7ffbe9b29fef0664&v=4" width="100px;" alt=""/>
+    <br />
+    <b>Felipe Vieira</b>
+</a>
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Renan%20Vieira-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-renan-vieira/)](https://www.linkedin.com/in/felipe-renan-vieira/)
+[![Gmail Badge](https://img.shields.io/badge/-feliperenanvieira%40gmail.com-red?logo=Gmail&logoColor=white&link=mailto:feliperenanvieira@gmail.com)](mailto:feliperenanvieira@gmail.com)
