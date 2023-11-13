@@ -25,6 +25,9 @@
 ## Status do projeto
 
 - 🚧 Versão 1.0.0: **EM DESENVOLVIMENTO**
+- 🛑 Versão 2.0.0: **NÃO INICIADO**
+
+Para mais informações sobre as versões do projeto acesse o arquivo [VERSIONS.md](./VERSIONS.md).
 
 ## Descrição
 
@@ -54,7 +57,7 @@ EM DESENVOLVIMENTO
 
 ## Licença
 
-EM DESENVOLVIMENTO
+[ACESSE AQUI](./LICENSE) para saber mais sobre a licença desse software.
 
 ## Referências
 
