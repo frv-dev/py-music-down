@@ -46,7 +46,7 @@ Essa é a ideia desse projeto, um automatizador para baixar músicas em mp3 de d
 - Baixar músicas:
   - do YouTube como mp3;
   - ...
-- Editar as metatags;
+- Editar as metadatas;
 - Trim do início e fim do vídeo.
 
 ## Configuração
