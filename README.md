@@ -39,11 +39,15 @@ Com isso eu pensei o que todo o programador pensa, AUTOMATIZAÇÃO!
 
 Só que não apenas baixar os arquivos, mas fazer todo o gerenciamento necessário, pegar vídeos e áudios de diversas fontes, converter vídeos para áudios, editar os metadados do arquivo mp3, cortar trechos do áudio, tudo isso no simples clicar de um botão.
 
-Essa é a ideia desse projeto, um automatisador para baixar músicas em mp3 de diversas fontes.
+Essa é a ideia desse projeto, um automatizador para baixar músicas em mp3 de diversas fontes.
 
 ## Funcionalidades
 
-EM DESENVOLVIMENTO
+- Baixar músicas:
+  - do YouTube como mp3;
+  - ...
+- Editar as metatags;
+- Trim do início e fim do vídeo.
 
 ## Configuração
 
