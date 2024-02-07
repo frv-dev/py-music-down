@@ -1,1 +1,9 @@
+# Virtual environment
 venv
+
+# Poc
+poc/output/*
+!poc/output/.gitkeep
+poc/temp/*
+!poc/temp/.gitkeep
+poc/links.json
